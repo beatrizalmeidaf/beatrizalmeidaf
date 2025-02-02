@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou a Beatriz Almeida 👋</h1>
 
 🎓 **Estudante de Ciência da Computação**  
-📊 **Especializando-se em Ciência de Dados e Engenharia de IA**  
+📊 **Estou me especializando em Ciência de Dados e Engenharia de IA**  
 🚀 **Apaixonada por tecnologia, aprendizado contínuo e inovação**  
 
 ---
@@ -30,5 +30,5 @@
 ---
 
 ### 📫 Como me encontrar  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-almeida-fel/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beatrizalmeida.ufg@gmail.com)
