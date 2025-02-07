@@ -22,8 +22,11 @@
 ---
 
 ### 📈 Estatísticas  
+
 <p align="left">
-  ![Beatriz's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beatriz-almeida&theme=dark)
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beatriz-almeida&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-huskydev.vercel.app/api?username=beatriz-almeida&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://metrics.lecoq.io/beatriz-almeida?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=America%2FSao_Paulo"/>
 </p>
 
 ---
