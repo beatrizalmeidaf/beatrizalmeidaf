@@ -23,8 +23,7 @@
 
 ### 📈 Estatísticas  
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatriz-almeida&show_icons=true&theme=dark&count_private=true&cache_seconds=1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatriz-almeida&layout=compact&theme=dark"/>
+  ![Beatriz's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beatriz-almeida&theme=dark)
 </p>
 
 ---
