@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou a Beatriz Almeida 🚀</h1>
+<h1 align="center">Beatriz Almeida</h1>
 
 🎓 **Estudante de Ciência da Computação**  
 📊 **Estou me especializando em Ciência de Dados e Engenharia de IA**  
