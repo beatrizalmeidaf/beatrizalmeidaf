@@ -29,9 +29,15 @@
       <!-- 📈 Resumo do perfil -->
       <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beatrizalmeidaf&theme=dark"/>
     </td>
+  </tr>
+  <tr>
     <td>
       <!-- 🔥 Linguagens mais usadas -->
       <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=beatrizalmeidaf&theme=dark"/>
+    </td>
+    <td>
+      <!-- 📊 Total de commits -->
+      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=beatrizalmeidaf&theme=dark&utcOffset=-3"/>
     </td>
   </tr>
 </table>
