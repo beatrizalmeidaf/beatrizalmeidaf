@@ -23,9 +23,7 @@
 
 ### 📈 Estatísticas  
 
-<p align="left">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beatrizalmeidaf&theme=dark"/>
-</p>
+<p align="left"> <!-- Detalhes do perfil --> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beatrizalmeidaf&theme=dark"/> </p> <p align="left"> <!-- Linguagens mais usadas --> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=beatrizalmeidaf&theme=dark"/> <!-- Estatísticas gerais (commits, PRs, issues) --> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=beatrizalmeidaf&theme=dark"/> </p>
 
 ---
 
