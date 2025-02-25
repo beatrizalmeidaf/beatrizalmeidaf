@@ -24,7 +24,7 @@
 ### 📈 Estatísticas  
 
 <p align="left">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beatriz-almeida&theme=dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beatrizalmeidaf&theme=dark"/>
 </p>
 
 ---
