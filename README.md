@@ -33,14 +33,15 @@
   <tr>
     <td>
       <!-- 🔥 Linguagens mais usadas -->
-      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=beatrizalmeidaf&theme=dark"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizalmeidaf&layout=compact&langs_count=6&theme=dark"/>
     </td>
     <td>
-      <!-- 📊 Total de commits -->
-      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=beatrizalmeidaf&theme=dark&utcOffset=-3"/>
+      <!-- 🚀 Total de commits mais bonito -->
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=beatrizalmeidaf&theme=dark"/>
     </td>
   </tr>
 </table>
+
 
 ---
 
